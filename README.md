@@ -10,3 +10,5 @@ Things worth implementing at some point
 * Visualize HackerNews activity
 * Blogging through GitHub issues
 * Chrome Plugin to fill in a form from a local dataset
+ 
+* Sprint Management from GitHub
