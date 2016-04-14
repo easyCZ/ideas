@@ -12,3 +12,5 @@ Things worth implementing at some point
 * Chrome Plugin to fill in a form from a local dataset
  
 * Sprint Management from GitHub
+
+* redux-storage-engine-firebase
