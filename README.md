@@ -14,3 +14,4 @@ Things worth implementing at some point
 * Sprint Management from GitHub
 
 * redux-storage-engine-firebase
+* Implement [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) in React Native
