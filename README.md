@@ -15,3 +15,6 @@ Things worth implementing at some point
 
 * redux-storage-engine-firebase
 * Implement [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) in React Native
+
+* App to simply track repetative commute from A to B.
+  * Multiple routes and live information on transport  
