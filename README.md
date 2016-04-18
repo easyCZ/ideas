@@ -18,3 +18,9 @@ Things worth implementing at some point
 
 * App to simply track repetative commute from A to B.
   * Multiple routes and live information on transport  
+
+* Simple exercise tracker
+  * Last weight on major lifts
+  * Last run
+  * Sleep?
+  
