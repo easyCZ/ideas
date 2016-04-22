@@ -23,4 +23,7 @@ Things worth implementing at some point
   * Last weight on major lifts
   * Last run
   * Sleep?
+  * 
+
+* Learn Flexbox as a game
   
