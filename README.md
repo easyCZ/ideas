@@ -28,3 +28,4 @@ Things worth implementing at some point
 
 - [ ] Learn Flexbox as a game
   
+- [ ] API Call Proxy in style of GraphQL to reduce network and parsing on the requesting side
