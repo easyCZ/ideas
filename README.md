@@ -30,3 +30,5 @@ Things worth implementing at some point
   
 - [ ] API Call Proxy in style of GraphQL to reduce network and parsing on the requesting side
 - [ ] Open Source pull requests tracker platform to post to projects that would like pull requests on issues
+
+- [ ] Generate github project logo + label
