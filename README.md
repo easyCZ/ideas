@@ -33,3 +33,4 @@ Things worth implementing at some point
 
 - [ ] Generate github project logo + label
 - [ ] Dynamically generate Pattern Lab from react components
+- [ ] Notify users when Exam grades are published @ The University of Edinburgh
