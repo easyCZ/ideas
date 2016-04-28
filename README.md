@@ -32,3 +32,4 @@ Things worth implementing at some point
 - [ ] Open Source pull requests tracker platform to post to projects that would like pull requests on issues
 
 - [ ] Generate github project logo + label
+- [ ] Dynamically generate Pattern Lab from react components
