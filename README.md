@@ -32,6 +32,7 @@ Things worth implementing at some point
 - [ ] Open Source pull requests tracker platform to post to projects that would like pull requests on issues
   - * Match pople with jobs?
   - * GitHub app to automatically add tags and listen for issue markings
+  - * OpenSorcery?
 
 - [ ] Generate github project logo + label
 - [ ] Dynamically generate Pattern Lab from react components
