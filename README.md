@@ -36,3 +36,4 @@ Things worth implementing at some point
 - [ ] Notify users when Exam grades are published @ The University of Edinburgh
 
 - [ ] Look at tech behind Kite/implement
+- [ ] https://github.com/danielzeller/Depth-LIB-Android- in RN
