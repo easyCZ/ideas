@@ -13,6 +13,7 @@ Things worth implementing at some point
 - [ ] redux-storage-engine-firebase
 - [ ] Implement [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) in React Native
 - [ ] Implement Animations [https://dribbble.com/shots/1868419-Flooz-Screens/attachments/315562](https://dribbble.com/shots/1868419-Flooz-Screens/attachments/315562) in React Native
+- [ ] Implement https://github.com/Ramotion/paper-onboarding in RN
 
 - [ ] App to simply track repetative commute from A to B.
   - [ ] Multiple routes and live information on transport  
