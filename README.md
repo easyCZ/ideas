@@ -38,3 +38,5 @@ Things worth implementing at some point
 
 - [ ] Look at tech behind Kite/implement
 - [ ] https://github.com/danielzeller/Depth-LIB-Android- in RN
+
+- [ ] Sync two Spotify accounts to play songs
