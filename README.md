@@ -40,3 +40,4 @@ Things worth implementing at some point
 - [ ] https://github.com/danielzeller/Depth-LIB-Android- in RN
 
 - [ ] Sync two Spotify accounts to play songs
+- [ ] Generate a tutorial from git commits
