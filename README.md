@@ -41,3 +41,5 @@ Things worth implementing at some point
 
 - [ ] Sync two Spotify accounts to play songs
 - [ ] Generate a tutorial from git commits
+- 
+- [ ] A simple project switching app, add to index and opens relevant IDE with workspace config
